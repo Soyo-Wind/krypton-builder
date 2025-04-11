@@ -1,0 +1,2 @@
+# krypton-builder
+kryptonをmkarchisoするsh
